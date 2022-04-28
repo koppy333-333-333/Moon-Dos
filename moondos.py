@@ -1,7 +1,6 @@
 import socket
 import sys
 import os
-from datetime import datetime
 #By Koppy404; @koppy999_
 
 main = """
@@ -20,7 +19,7 @@ def init(ip, port, main):
 		print("Servidor Indisponivel ou Porta fechada!\n")
 
 
-if len(sys.argv) < 5:
+if len(sys.argv) < 4:
   print('\n\n')
   print('                  VERSÃO: V.1                   ')
   print('                  CODED BY KOPPY404                 ')
