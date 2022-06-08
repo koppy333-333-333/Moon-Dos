@@ -1,7 +1,7 @@
 import socket
 import sys
 import os
-#By Koppy404; @koppy999_
+#By Koppy404; @koppyyy_
 
 main = """
 
