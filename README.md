@@ -4,7 +4,6 @@
 </a>
 <a href="https://wa.me/554792433327" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/554792433327">
-</a>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
