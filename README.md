@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/koppy999_">
 </a>
 <a href="https://wa.me/554792433327" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-DF0174?style=for-the-badge&labelColor=DF0174&logo=whatsapp&logoColor=white&link=https://wa.me/554792433327">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/554792433327">
 </a>
 
 ![[Python](https://github.com/koppy333-333-333)](http://img.shields.io/badge/python-blue.svg)
