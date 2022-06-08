@@ -1,6 +1,6 @@
 
-<a href="https://www.instagram.com/koppy999_" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/koppy999_">
+<a href="https://www.instagram.com/koppyyy_" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/koppyyy_">
 </a>
 <a href="https://wa.me/554792433327" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/554792433327">
@@ -15,7 +15,7 @@
 
 # Moon-Dos
 Ferramenta de Dos
-![alt text](https://i.imgur.com/6RWAIpd.jpg)
+![alt text](https://i.imgur.com/0nMr439.jpg)
 
 #### *INSTALAÇÃO*  
  - `apt update && apt upgrade`
