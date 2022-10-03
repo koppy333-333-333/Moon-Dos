@@ -23,7 +23,7 @@ if len(sys.argv) < 4:
   print('\n\n')
   print('                  VERSÃO: V.1                   ')
   print('                  CODED BY KOPPY404                 ')
-  print('                  Instagram: koppy999_                 ')
+  print('                  Instagram: koppyyy_                 ')
   print('\033[1;33m★ ★ ★ ★ ★ ★ ★  ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ \033[m')
   print('\033[1;33m  ★ ★  ★  ★  ★ ★  ★  ★ ★ ★  ★  ★ ★ ★  ★  ★ ★ ★  ★  ★ ★ ★  ★  ★ ★ ★  ★  ★ ★ ★  ★  ★ ★ ★  ★  ★\033[m')
   print('\033[1;94m                             .-””””_\033[m')
